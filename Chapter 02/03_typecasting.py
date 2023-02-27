@@ -1,0 +1,17 @@
+a="30"
+b="Anuj"
+c=10.0
+d=5
+a=int(a)
+b=str(b)
+c=int(c)
+d=float(d)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(a+c)
+print(b)
+print(c)
+print(d)
+print(a)
